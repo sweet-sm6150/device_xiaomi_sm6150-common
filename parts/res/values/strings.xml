@@ -101,4 +101,9 @@
     <string name="haptic_level_title">Level</string>
     <string name="haptic_level_summary">Amount of vibration intensity</string>
     <string name="haptic_level_summary_incompatible">Feature not supported</string>
+
+    <!-- DC dimming settings -->
+    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
+    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions (Note: reduce image quality and color production)</string>
+
 </resources>
